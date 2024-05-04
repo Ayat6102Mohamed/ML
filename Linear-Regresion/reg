@@ -1,0 +1,8 @@
+Apply simple linear regression to predict the performance index of a student.  
+❖ Find the best variable (X) that can be used to predict the performance index (Y).  
+❖ This variable (X) can be provided by the dataset as is (for example: use Sleep Hours as 
+“X” to predict price “Y”) or it can be a calculated variable (for example: use a new 
+variable Hours Studied+Questions Practices as “X” to predict performance index “Y”). 
+❖ Your code must show at least all four basic trials (for the four columns).  
+❖ Use simple linear regression from scratch as discussed in Lab 2 and try adjusting the 
+learning rate and number of epochs as needed. 
