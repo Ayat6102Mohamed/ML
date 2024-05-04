@@ -1,0 +1,7 @@
+Apply Polynomial regression from scratch to reduce the mean square error acquired on the updated student performance dataset “assignment2dataset.csv” attached with lab 4
+Your code should be dynamic (allow degree=2, degree=3 and so on).
+Built-in Polynomial Transformation is NOT ALLOWED
+You can use linear regression built in for the regression model but not Polynomial features transformation built in
+You should handle the preprocessing of the “Extracurricular Activities” column
+You should apply feature selection (you must choose 2 or more features) and use 
+     a train-test split (80% train-20% test)
